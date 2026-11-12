@@ -1,5 +1,7 @@
 # Geiger ESP32 · SBM-20 · RadSens
 
+> **Aktuálne zadanie** · [Strešný uzol SBM-20 s XIAO ESP32 a LoRa, bez ručného spájkovania SMD](Geiger-stresny-uzol.md). Dokumentácia nižšie zachytáva pôvodný návrh I²C emulácie a test s T096.
+
 Projektový handover pre snímač s trubicou SBM-20, XIAO ESP32-S3 a nosnou doskou MultiGeiger Rev. C. XIAO má poskytovať telemetriu po I²C na adrese `0x66`. Hostiteľom je Heltec T096 s Meshtasticom.
 
 ## Stav k 12. novembru 2026
